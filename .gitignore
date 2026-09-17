@@ -1,0 +1,64 @@
+# Unity-generated data
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/.utmp/
+
+# Local sibling project/export; not the active project source
+/NumberBoardScene Project/
+
+# Editor recovery and generated asset folders (including their metadata)
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+/Assets/_Generated/
+/Assets/_Generated.meta
+/Assets/**/Editor/JetBrains*
+
+# IDE and operating-system files
+/.vs/
+/.idea/
+/.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.unityproj
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build artifacts and signing credentials
+*.apk
+*.aab
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.apk.meta
+*.aab.meta
+*.keystore.meta
+*.jks.meta
+*.p12.meta
+*.pfx.meta
+.env
+.env.*
+!.env.example
+
+# Local diagnostics
+sysinfo.txt
+crashlytics-build.properties
+
+# Intentionally keep all source .meta files, Packages/packages-lock.json,
+# Assets/XR settings, imported fonts, materials, and third-party notices.

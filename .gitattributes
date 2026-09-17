@@ -1,0 +1,16 @@
+# Normalize text only when Git stages files; binary assets stay binary.
+* text=auto
+*.md text eol=lf
+*.cs text
+*.json text
+*.unity text
+*.prefab text
+*.meta text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ttf binary
+*.otf binary
+*.fbx binary
+*.wav binary
+*.mp4 binary
